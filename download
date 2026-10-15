@@ -1,0 +1,8 @@
+# Sign-in tokens (also kept outside the repo by default)
+*token*.mat
+*.mat
+# Student data and outputs - never commit
+*.xlsx
+*.docx
+*.csv
+TestOutput/
